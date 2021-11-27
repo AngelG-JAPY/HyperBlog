@@ -2,18 +2,36 @@
     box-sizing: border-box;
     font-family: 'Courier';
 }
-body{
-    font-size: 15px;
-}
+
 
 #container{
     margin-left: auto;
     margin-right: auto;
     width: 70%;
     border: 1px solid #000;
-    padding: 1em;
+    padding: 0;
+}
+
+#post{
+    padding: 1rem 1rem;
 }
 
 #post h1{
-    font-size: 25px;
+    font-size: 20px;
 }
+
+#cabecera{
+    background-color: #2724d4;   
+
+    color: #fff;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .5);
+    font-weight: bold;
+    padding: .5em;
+    margin:0;
+}
+
+#title{
+    font-size: 0.8em;
+    padding-left: 15px;
+}
+
