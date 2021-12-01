@@ -3,6 +3,10 @@
     font-family: 'Times New Roman';
 }
 
+body{
+    background-color: #1b1919;
+}
+
 
 #container{
     margin-left: auto;
@@ -10,8 +14,15 @@
     width: 70%;
     border: 1px solid #000;
     padding: 0;
+    background-color: #fff;
 }
 
+#logo{
+    height: 20px;
+    vertical-align: middle;
+    margin-right: .5rem;
+    
+}
 #post{
     padding: 1rem 1rem;
 }
