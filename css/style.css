@@ -41,6 +41,11 @@ body{
     margin:0;
 }
 
+#equipo{
+    display: block;
+    width: 100%;
+}
+
 #title{
     font-size: 0.8em;
     padding-left: 15px;
