@@ -46,3 +46,10 @@ body{
     padding-left: 15px;
 }
 
+#footer{
+    background-color: #575757;
+    text-align: center;
+    color: #fff;
+    padding: .8em;
+}
+
